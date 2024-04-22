@@ -1,1 +1,14 @@
-  title: "Fire Severity using Normalized Burn Index: Blodgett Forest"
+title: "Fire Severity using Normalized Burn Index: Blodgett Forest"
+format: html
+editor: visual
+
+library(sf)
+library(stars)
+library(tidyverse)
+library(tmap)
+library(rstac)
+library(gdalcubes)
+library(leaflet.extras2)
+library(terra)
+
+
