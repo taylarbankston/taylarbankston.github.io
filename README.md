@@ -1,6 +1,6 @@
 # Welcome
 ## taylarbankston.github.io
-Blodgett Project
+Blodgett Final Project
 
 
 
